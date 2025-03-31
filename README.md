@@ -1,2 +1,2 @@
 # test-for-trigger
-test
+test test
